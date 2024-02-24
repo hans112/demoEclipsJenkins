@@ -1,1 +1,2 @@
 hi i make this file through bash in test branch
+second messagen in test.txt file
